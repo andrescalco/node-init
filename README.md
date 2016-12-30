@@ -3,8 +3,8 @@
 
 ## Usage
 
-```
-npm install
-```
+Run `npm install` to install dependencies
  
- ;)
+## Contribute
+
+If you want, you can send your feedback, bug reports and even a pull request
